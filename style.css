@@ -6,7 +6,6 @@ body {
 
 header {
   text-align: center;
-  color: blue;
 }
 
 nav > a {
@@ -25,7 +24,7 @@ figcaption {
   text-align: center;
 }
 
-section#featuredproperty p {
+section#featuredproperty {
   width: 500px;
   text-align: center;
   color: blue;
