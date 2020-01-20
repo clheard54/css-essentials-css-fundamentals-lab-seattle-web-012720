@@ -33,6 +33,7 @@ figcaption {
 #details {
   display: block;
   margin: auto;
+  color: green;
 }
 
 #details > div {
