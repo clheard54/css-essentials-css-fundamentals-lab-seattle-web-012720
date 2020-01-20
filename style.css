@@ -27,4 +27,5 @@ figcaption {
 section#featuredproperty p {
   width: 500px;
   text-align: center;
+  color: blue;
 }
