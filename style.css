@@ -30,15 +30,16 @@ figcaption {
   margin: auto;
 }
 
-#details div {
-  width: 200px;
-  text-align: center;
-  float: left;
-}
-
 
 #details {
   display: block;
   text-align: center;
   margin: auto;
 }
+
+#details div {
+  width: 200px;
+  float: left;
+}
+
+
