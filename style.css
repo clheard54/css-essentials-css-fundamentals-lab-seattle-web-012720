@@ -35,6 +35,7 @@ figcaption {
   display: block;
   text-align: center;
   margin: auto;
+  font-color: green
 }
 
 #details div {
