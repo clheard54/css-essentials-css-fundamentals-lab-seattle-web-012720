@@ -10,7 +10,8 @@ header {
 
 nav > a {
   margin-right: 10px;
-  margin-left: 10px
+  margin-left: 10px;
+  background-color: #120012
 }
 
 img {
