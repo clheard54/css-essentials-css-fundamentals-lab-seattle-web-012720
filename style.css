@@ -28,5 +28,9 @@ figcaption {
   width: 800px;
   text-align: center;
   margin: auto;
-  color: blue;
+}
+
+#details {
+  display: block;
+  
 }
