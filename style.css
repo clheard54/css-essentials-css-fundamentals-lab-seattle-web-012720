@@ -33,7 +33,7 @@ figcaption {
 #details {
   display: block;
   margin: auto;
-  color: green;
+  text-align: center;
 }
 
 #details > div {
